@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Flutter](https://img.shields.io/badge/-Flutter-027DFD)
-![Git Hub](https://img.shields.io/badge/-GitHub-F14E32)
-![React](https://img.shields.io/badge/-React-0081A3)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Git Hub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Python-00FF00?logo=python&logoColor=white)
