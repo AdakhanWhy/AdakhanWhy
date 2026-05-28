@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- hello
+
 # Adkahan why? 🤔
 
 **AdakhanWhy/AdakhanWhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
